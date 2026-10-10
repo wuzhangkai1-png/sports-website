@@ -2,7 +2,7 @@
 // 例如：avatar: 'https://example.cos.ap-guangzhou.myqcloud.com/avatar.mp4'
 window.SPORTS_MEDIA = {
   avatar: 'assets/avatar.mp4',
-  presentation: 'assets/presentation_video.mp4',
-  pdf: 'assets/slides.pdf',
-  pptx: 'assets/slides.pptx'
+  presentation: 'https://sports-media-1503778909.cos.ap-guangzhou.myqcloud.com/presentation_video.mp4',
+  pdf: 'https://sports-media-1503778909.cos.ap-guangzhou.myqcloud.com/slides.pdf',
+  pptx: 'https://sports-media-1503778909.cos.ap-guangzhou.myqcloud.com/slides.pptx'
 };
